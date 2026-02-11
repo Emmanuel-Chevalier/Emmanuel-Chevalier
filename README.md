@@ -20,8 +20,8 @@ I design executive-level dashboards and analytical solutions that transform comp
 
 
 - **Key Highlights:** Advanced DAX (Time Intelligence), Star Schema modeling, and UX-focused design.
-- 🔗 [View Project Repository](🔗 Project repository link will be added shortly.
-)
+- 🔗 Project repository link coming soon.
+
 
 ---
 
@@ -34,7 +34,7 @@ I design executive-level dashboards and analytical solutions that transform comp
 
 ## 🎓 Certifications
 
-- Microsoft Power BI Data Analyst Professional Certificate (Coursera)
+- Microsoft Power BI Data Analyst Professional Certificate – Coursera
 
 ---
 
