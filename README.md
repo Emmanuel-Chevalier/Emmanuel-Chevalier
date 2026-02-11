@@ -1,6 +1,6 @@
 # Hi, I'm Emmanuel Chevalier 👋
 
-## 💼 Data Analyst | Power BI & DAX Specialist | Microsoft Certified
+## 💼 Data Analyst | Power BI & DAX Specialist
 
 I design executive-level dashboards and analytical solutions that transform complex data into clear, actionable business insights.
 
@@ -29,6 +29,12 @@ I design executive-level dashboards and analytical solutions that transform comp
 - **Dashboarding:** Building scalable and interactive Power BI reports.
 - **Analytics:** Developing advanced DAX measures (YoY, dynamic KPIs).
 - **Strategy:** Translating complex business needs into data-driven decisions.
+
+---
+
+## 🎓 Certifications
+
+- Microsoft Power BI Data Analyst Professional Certificate (Coursera)
 
 ---
 
