@@ -23,10 +23,10 @@ I build decision-oriented dashboards and analytical solutions that turn complex 
 This project identifies structural drivers of employee turnover and highlights risk concentration across tenure, workload exposure, demographic segments, and role volatility.
 
 **Key Highlights**
-- Advanced DAX modeling & context-aware ratio calculations  
-- Structured workforce segmentation (Age & Tenure logic)  
-- Clean star-schema data modeling  
-- Executive-oriented UX design optimized for rapid insight consumption 
+- Context-aware DAX modeling with robust ratio calculations  
+- Analytical workforce segmentation (Age & Tenure bucketing logic)  
+- Clean and centralized KPI architecture (_Measures table)  
+- Executive-oriented UX design optimized for risk-focused decision-making
 
 🔗 **Explore the full project:**  
 https://github.com/Emmanuel-Chevalier/powerbi-hr-attrition-dashboard  
