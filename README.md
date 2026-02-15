@@ -2,43 +2,63 @@
 
 ## 💼 Data Analyst | Power BI & DAX Specialist
 
-I design executive-level dashboards and analytical solutions that transform complex data into clear, actionable business insights.
+I design executive-level dashboards and analytical solutions that transform complex datasets into clear, decision-ready business insights.
 
 ---
 
 ## 🛠 Tech Stack
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-Data_Analysis_Expressions-orange?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Data_Analysis_Expressions-orange?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
 ## 📊 Featured Project
 
-### Sales Performance – Executive Dashboard
-*An interactive Power BI dashboard delivering a 360° view of sales performance with Year-over-Year analysis.*
+### HR Analytics – Employee Attrition & Retention Dashboard  
+*An executive-level Power BI solution transforming attrition reporting into proactive workforce risk monitoring.*
 
-> 📸 Dashboard preview coming soon.
+![HR Dashboard – Desktop Preview](https://raw.githubusercontent.com/Emmanuel-Chevalier/powerbi-hr-attrition-dashboard/main/assets/hr-attrition-dashboard-desktop.png)
 
+This project identifies structural drivers of employee turnover and highlights risk concentration across tenure, workload exposure, demographic segments, and role volatility.
 
-- **Key Highlights:** Advanced DAX (Time Intelligence), Star Schema modeling, and UX-focused design.
-- 🔗 Project repository link coming soon.
+**Key Highlights**
+- Advanced DAX modeling & context-aware ratio calculations  
+- Structured workforce segmentation (Age & Tenure logic)  
+- Clean star-schema data modeling  
+- Executive-oriented UX design for rapid insight consumption  
 
+🔗 **Explore the full project:**  
+https://github.com/Emmanuel-Chevalier/powerbi-hr-attrition-dashboard  
+
+---
+
+## 🔗 Related Project
+
+### Sales Performance – Executive Dashboard  
+A 360° Power BI performance dashboard featuring Year-over-Year analysis and time intelligence modeling.
+
+🔗 https://github.com/Emmanuel-Chevalier/powerbi-sales-performance-dashboard
 
 ---
 
 ## 🚀 Impact & Expertise
-- **Dashboarding:** Building scalable and interactive Power BI reports.
-- **Analytics:** Developing advanced DAX measures (YoY, dynamic KPIs).
-- **Strategy:** Translating complex business needs into data-driven decisions.
+
+- **Dashboard Engineering:** Scalable and interactive Power BI solutions  
+- **Advanced DAX Modeling:** Dynamic KPIs, segmentation logic, time intelligence  
+- **Analytical Thinking:** Translating business challenges into measurable insights  
+- **Decision Support:** Designing tools for executive-level strategy  
 
 ---
 
 ## 🎓 Certifications
 
-- Microsoft Power BI Data Analyst Professional Certificate – Coursera
+- Microsoft Power BI Data Analyst Professional Certificate – Coursera  
 
 ---
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Coming soon !)
+## 📫 Let’s Connect
 
-> "Turning data into strategic decisions."
+[LinkedIn](Coming soon)
+
+> *Turning data into strategic decisions.*
