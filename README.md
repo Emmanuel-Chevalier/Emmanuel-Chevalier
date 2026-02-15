@@ -1,8 +1,8 @@
 # Hi, I'm Emmanuel Chevalier 👋
 
-## 💼 Data Analyst | Power BI & DAX Specialist
+## 💼 Data Analyst – Power BI & Business Analytics
 
-I design executive-level dashboards and analytical solutions that transform complex datasets into clear, decision-ready business insights.
+I build decision-oriented dashboards and analytical solutions that turn complex data into clear, actionable business insights.
 
 ---
 
@@ -26,7 +26,7 @@ This project identifies structural drivers of employee turnover and highlights r
 - Advanced DAX modeling & context-aware ratio calculations  
 - Structured workforce segmentation (Age & Tenure logic)  
 - Clean star-schema data modeling  
-- Executive-oriented UX design for rapid insight consumption  
+- Executive-oriented UX design optimized for rapid insight consumption 
 
 🔗 **Explore the full project:**  
 https://github.com/Emmanuel-Chevalier/powerbi-hr-attrition-dashboard  
@@ -44,7 +44,7 @@ A 360° Power BI performance dashboard featuring Year-over-Year analysis and tim
 
 ## 🚀 Impact & Expertise
 
-- **Dashboard Engineering:** Scalable and interactive Power BI solutions  
+- **Dashboard Engineering:** Interactive and performance-focused Power BI solutions  
 - **Advanced DAX Modeling:** Dynamic KPIs, segmentation logic, time intelligence  
 - **Analytical Thinking:** Translating business challenges into measurable insights  
 - **Decision Support:** Designing tools for executive-level strategy  
@@ -59,6 +59,8 @@ A 360° Power BI performance dashboard featuring Year-over-Year analysis and tim
 
 ## 📫 Let’s Connect
 
-[LinkedIn](Coming soon)
+Feel free to reach out:
+
+📧 emmanuel.chevalier.data@gmail.com
 
 > *Turning data into strategic decisions.*
